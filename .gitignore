@@ -124,3 +124,6 @@ _modules/*
 
 /results/
 /phpunit*.xml
+
+# tetap masukan ke github public/vendor
+!/public/vendor/
